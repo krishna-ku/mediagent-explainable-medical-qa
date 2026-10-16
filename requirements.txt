@@ -1,0 +1,12 @@
+groq
+faiss-cpu
+sentence-transformers
+langgraph
+langchain-core
+shap
+lime
+gradio
+datasets
+scikit-learn
+statsmodels
+numpy
